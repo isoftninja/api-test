@@ -1,1 +1,1 @@
-# api-test
+# GraphQL test project.
